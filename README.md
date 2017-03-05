@@ -29,7 +29,7 @@ The original Matlab codes are put in this project too.
 <img src="README-images/org-3.png" width = "425" height = "350" align=center />  <img src="README-images/enh-3.png" width = "425" height = "350" align=center />
 <img src="README-images/w1-3.png" width = "425" height = "350" align=center />  <img src="README-images/w2-3.png" width = "425" height = "350" align=center />
 
-#### Ohter Results
+#### Other Results
 <img src="README-images/org-4.png" width = "425" height = "350" align=center />  <img src="README-images/enh-4.png" width = "425" height = "350" align=center />
 
 <img src="README-images/org-5.png" width = "425" height = "350" align=center />  <img src="README-images/enh-5.png" width = "425" height = "350" align=center />
