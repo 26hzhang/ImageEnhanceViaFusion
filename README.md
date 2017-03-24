@@ -4,11 +4,7 @@ It is a Java implementation of algorithms proposed in the [paper](http://perso.t
 
 This paper describes a novel strategy to enhance underwater videos and images. Built on the fusion principles, the strategy derives the inputs and the weight measures only from the degraded version of the image. In order to overcome the limitations of the underwater medium, two inputs are defined that represent color corrected and contrast enhanced versions of the original underwater image/frame, but also four weight maps that aim to increase the visibility of the distant objects degraded due to the medium scattering and absorption. The strategy is a single image approach that does not require specialized hardware or knowledge about the underwater conditions or scene structure. The fusion framework also supports temporal coherence between adjacent frames by performing an effective edge preserving noise reduction strategy. The enhanced images and videos are characterized by reduced noise level, better exposedness of the dark regions, improved global contrast while the finest details and edges are enhanced significantly.
 
-##### Additional
-
-The image showing method is obtain from the repository: [ImShow-Java-OpenCV](https://github.com/master-atul/ImShow-Java-OpenCV).
-
-The original Matlab codes are put in this project too.
+**NOTE**: The image showing method is obtain from the repository: [ImShow-Java-OpenCV](https://github.com/master-atul/ImShow-Java-OpenCV). And the implementation of Matlab are put in this project too.
 
 
 ### Requirements
