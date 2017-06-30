@@ -84,7 +84,7 @@ public class EnhanceFunc {
 		new ImShow("fusion").showImage(fusion);
 	}
 
-	public static Mat[] applyCLAHE(Mat img, Mat L) {
+	private static Mat[] applyCLAHE(Mat img, Mat L) {
 		Mat[] result = new Mat[2];
 		CLAHE clahe = Imgproc.createCLAHE();
 		clahe.setClipLimit(2.0);
@@ -101,7 +101,7 @@ public class EnhanceFunc {
 		return result;
 	}
 
-	public static Mat calWeight(Mat img, Mat L) {
+	private static Mat calWeight(Mat img, Mat L) {
 		Core.divide(L, new Scalar(255.0), L);
 		L.convertTo(L, CvType.CV_32F);
 		// calculate laplacian contrast weight
