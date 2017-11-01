@@ -1,6 +1,6 @@
 ## Underwater Image Enhance via Fusion
 
-**Notice**: All the codes are integrated in my newly created repository: [OptimizedImageEnhance](https://github.com/IsaacChanghau/OptimizedImageEnhance), this repository will be deleted later, and the compressed file of this repository is also available in the new repository: [link](https://github.com/IsaacChanghau/OptimizedImageEnhance/previous_standalone_repositories/ImageEnhanceViaFusion-master.zip).
+**Notice**: _All the codes are integrated in my newly created repository: [OptimizedImageEnhance](https://github.com/IsaacChanghau/OptimizedImageEnhance), this repository will be deleted later, and the compressed file of this repository is also available in the new repository: [[link]](https://github.com/IsaacChanghau/OptimizedImageEnhance/previous_standalone_repositories/ImageEnhanceViaFusion-master.zip)._
 
 It is a Java implementation of algorithms proposed in the [paper](http://perso.telecom-paristech.fr/~Gousseau/ProjAnim/2015/ImageSousMarine.pdf): Enhancing Underwater Images and Videos by Fusion, published by Cosmin Ancuti on [CVPR](https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition), 2012.
 
