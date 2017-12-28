@@ -1,6 +1,6 @@
 ## Underwater Image Enhance via Fusion
 
-![Authour](https://img.shields.io/badge/Author-Zhang%20Hao%20(Isaac%20Changhau)-blue.svg)
+![Authour](https://img.shields.io/badge/Author-Zhang%20Hao%20(Isaac%20Changhau)-blue.svg) ![](https://img.shields.io/badge/Java-1.8-brightgreen.svg) ![](https://img.shields.io/badge/OpenCV-3.2.0-brightgreen.svg)
 
 **Notice**: _All the codes are integrated in my newly created repository: [OptimizedImageEnhance](https://github.com/IsaacChanghau/OptimizedImageEnhance), this repository will be deleted later, and the compressed file of this repository is also available in the new repository: [[link]](https://github.com/IsaacChanghau/OptimizedImageEnhance/blob/master/pre_standalones/ImageEnhanceViaFusion-master.zip)._
 
